@@ -39,7 +39,7 @@ spec:
       name: jupyterhub
   repos:
     - name: manifests
-      uri: "https://github.com/opendatahub-io/odh-manifests/tarball/v1.1.0"
+      uri: "https://github.com/myeung18/odh-manifests/tarball/learning"
     - name: opf
       uri: https://github.com/myeung18/apps/tarball/testing
   version: v1.1.0
